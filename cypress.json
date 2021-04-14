@@ -1,0 +1,19 @@
+{
+  "projectId": "fru2k6",
+  "reporter": "mochawesome",
+  "reporterOptions":{
+    "reportDir":"cypress/results/mochawesome-report",
+    "overwrite":false,
+    "reportFilename":"",
+    "html":false,
+    "json":true
+
+  },
+  "dependencies":{
+    "cypress":"^4.8.0",
+    "cypress-file-upload": "^4.0.7",
+    "mochawesome": "^6.1.1",
+    "mochawesome-merge": "4.1.0"  }
+ 
+ 
+}
